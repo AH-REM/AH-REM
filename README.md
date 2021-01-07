@@ -7,7 +7,7 @@
 <br />
 
 <p align='center'>
-  <a href="https://tdrapied.fr"><img src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=2C2F33" /></a>
+  <a href="http://tdrapied.fr"><img src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=2C2F33" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thibault-drapied/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=2C2F33" /></a>
    &nbsp;&nbsp;&nbsp;&nbsp;
